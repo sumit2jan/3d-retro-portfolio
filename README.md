@@ -1,8 +1,11 @@
 # 💻 Sumit Singh — 3D Retro Computer Portfolio
 
+[![Live Production Site](https://img.shields.io/badge/Live-sumit--singh--3d--portfolio.vercel.app-blue?style=for-the-badge&logo=vercel)](https://sumit-singh-3d-portfolio.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sumit2jan/3d-retro-portfolio)
+
 An interactive, vintage 1990s desktop and 3D workstation portfolio built with **React**, **Three.js**, **@react-three/fiber**, and **Tailwind CSS**. Inspired by classic retro computing aesthetics and modern WebGL interactive experiences.
 
-![3D Retro Portfolio Preview](public/models/Computer/baked_computer.jpg)
+🔗 **Live Website**: [https://sumit-singh-3d-portfolio.vercel.app/](https://sumit-singh-3d-portfolio.vercel.app/)
 
 ---
 
